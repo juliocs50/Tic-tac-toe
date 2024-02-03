@@ -15,7 +15,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/tic-tac-toe-unity.git
+git clone [ https://github.com/your-username/tic-tac-toe-unity.git](https://github.com/juliocs50/Tic-tac-toe)
 Open in Unity:
 
 Open Unity Hub and add the project by selecting the cloned folder.
